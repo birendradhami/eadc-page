@@ -1,0 +1,777 @@
+@media screen and (max-width: 1600px) {
+  /* Eadc Banner */
+
+  .educatn_wrp .fntch_banr {
+    height: 700px;
+  }
+}
+
+@media screen and (max-width: 1400px) {
+  /* Eadc Banner */
+
+  .mn_hd p {
+    font-size: 18px;
+    line-height: 25px;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  /* Eadc Banner */
+
+  .fntch_banr {
+    height: auto;
+    padding-bottom: 40px;
+    background: none;
+  }
+
+  .fntch_bnsc_txt {
+    width: 100%;
+    text-align: center;
+  }
+
+  .trsted_mn {
+    margin-top: 30px;
+  }
+
+  .mn_hd h2 {
+    font-size: 18px;
+    text-align: center;
+    width: 100%;
+  }
+
+  .trstd_lst {
+    justify-content: center;
+  }
+
+  /* Eadc Comment */
+
+  .iot_cntr_lst p {
+    font-size: 14px;
+    line-height: normal;
+    margin: 0;
+  }
+
+  /* Eadc Services */
+
+  .wbdvpmnt_srvs_sldr,
+  .edu_srvc_otr {
+    margin-top: 40px;
+    margin-bottom: 0;
+    padding-left: 0;
+  }
+
+  .edu_srvc_mn {
+    background: #eef4fd;
+    padding: 10px;
+    border-radius: 10px;
+    min-height: 425px;
+    margin: 0 5px !important;
+  }
+
+  h3 {
+    font-size: 18px;
+  }
+
+  .edu_srvc_cntnt {
+    margin-top: 20px;
+    padding-left: 0;
+  }
+
+  .edu_srvc_lst {
+    margin-bottom: 10px;
+  }
+
+  .edu_srvc_lst h3 {
+    font-size: 16px;
+    padding-left: 30px;
+  }
+
+  .edu_srvc_ryt {
+    width: 40%;
+  }
+
+  .edu_srvc_ryt figure {
+    width: 350px;
+  }
+
+  .edu_srvc_mn:nth-child(even) {
+    flex-direction: row;
+    margin: 0;
+  }
+
+  .edu_srvc_lst:after {
+    width: 10px;
+    height: 10px;
+    top: 4px;
+  }
+
+  /* Eadc Cta1 */
+
+  .eductn_cta1 .fix_container {
+    padding: 30px 20px;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .eductn_cta1 .sb_hd h2 {
+    font-size: 31px;
+  }
+
+  .eductn_cta1 .sb_hd p {
+    font-size: 16px;
+    margin: 5px 0px 0px;
+    margin-bottom: 22px;
+  }
+
+  .edctn_cta1_rgt {
+    display: none;
+  }
+
+  .ednc_apnl_ryt h3 {
+    font-weight: 800;
+    color: #fff;
+    font-size: 18px;
+  }
+
+  /* Eadc Panel */
+
+  .hovr_pn_inr .edu_srvc_lst h3 {
+    margin-bottom: 10px;
+    font-size: 16px;
+    padding-left: 30px;
+    font-weight: 400 !important;
+  }
+
+  .edu_srvc_cntnt .edu_srvc_lst h3 {
+    margin-bottom: 10px;
+    font-weight: 400;
+    font-size: 16px;
+  }
+
+  /* Eadc Features */
+  .edu_featrs_sc {
+    padding: 40px 0;
+  }
+
+  /* Eadc Video */
+
+  .eductn_vid_mn {
+    background: #eef4fd;
+    padding: 50px 30px;
+  }
+
+  .eductn_vid_lft figure span {
+    position: absolute;
+    bottom: -20px;
+    width: 100px;
+    height: 100px;
+  }
+
+  .sb_hd p {
+    font-size: 16px;
+    font-weight: 400;
+  }
+
+  /* Eadc Cta2 */
+
+  .dgtl_otsrc_sc h2 {
+    font-size: 30px !important;
+    line-height: 44px;
+  }
+
+  .dgtl_otsrc_sc .dgtl_otsrc_btn {
+    margin: 30px auto 0;
+  }
+
+  /* Eadc Learning Services */
+
+  .edu_lrngsrvcs_bx {
+    text-align: center;
+  }
+
+  .edu_lrngsrvcs_sc .button_main button {
+    margin-top: 30px;
+  }
+
+  /* Eadc Adv Tech */
+
+  .edu_advnctchnlgs_ryt h3 {
+    font-size: 22px;
+    margin-bottom: 0;
+  }
+
+  .edu_advnctchnlgs_ryt p {
+    margin: 5px 0 15px;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+  }
+
+  .edu_tchnl_lst {
+    margin-bottom: 10px;
+    position: relative;
+  }
+  .edu_advnctchnlgs_ryt .edu_tchnl_lst h3 {
+    font-size: 16px;
+    padding-left: 30px;
+  }
+
+  .edu_tchnl_lst:after {
+    width: 10px;
+    height: 10px;
+    top: 4px;
+  }
+
+  .edu_advnctchnlgs_ryt .button_main button {
+    margin-top: 20px;
+    height: 43px;
+  }
+
+  .edu_advnctchnlgs_ryt .button_main button a i {
+    height: 38px;
+    width: 37px;
+  }
+
+  .edu_advnctchnlgs_ryt .button_main button a {
+    font-size: 18px;
+  }
+
+  /* Eadc Process */
+
+  .edu_procs_bx figure,
+  .edu_procs_bx:after,
+  .edu_procs_lst:after,
+  .edu_procs_bx:before {
+    display: none;
+  }
+
+  .edu_procs_sc .sb p {
+    margin-bottom: 0;
+  }
+
+  /*  */
+  .edu_procs_lst .slick-dots {
+    position: unset;
+    margin-top: 30px;
+    margin-bottom: 20px;
+  }
+
+  .edu_procs_lst .slick-dots li {
+    margin: 0 1px;
+  }
+
+  .edu_procs_lst .slick-dots li button:before {
+    opacity: 1;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    color: rgb(154, 196, 156);
+    font-size: 16px;
+  }
+
+  .edu_procs_lst .slick-dots li.slick-active button:before {
+    color: #048016;
+  }
+
+  .edu_procs_lst .slick-dots li button {
+    width: 0;
+    font-size: 0;
+    height: 0;
+    background: transparent;
+  }
+
+  /* Eadc Porfolio */
+
+  .cm_portfolio {
+    padding-top: 40px;
+    padding-bottom: 100px;
+  }
+
+  /*  */
+
+  .comn_port_sldr .slick-prev {
+    left: 28rem;
+  }
+
+  .comn_port_sldr .slick-next {
+    right: 28rem;
+  }
+  /*  */
+}
+
+@media screen and (max-width: 992px) {
+  /* Eadc Banner */
+
+  .fntch_bnsc_txt h1 {
+    font-size: 42px;
+  }
+  .blk_span {
+    display: inline;
+  }
+
+  .nv_spc {
+    padding-top: 100px;
+  }
+
+  .trsted_bx img {
+    max-width: 80px;
+  }
+
+  /* Eadc Comment */
+
+  .iot_cntr_lst {
+    gap: 5px;
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .iot_cntr_lst h3 {
+    font-size: 26px;
+  }
+
+  /* Eadc Services */
+
+  .edu_srvc_sc {
+    padding-top: 40px;
+  }
+
+  .sb h2 {
+    font-size: 35px;
+  }
+  .sb p {
+    font-size: 16px;
+    line-height: normal;
+  }
+
+  .edu_srvc_ryt figure {
+    width: auto;
+  }
+
+  /* Eadc Cta1 */
+
+  .eductn_cta1 {
+    padding: 40px 0;
+  }
+
+  /* Eadc Panel */
+
+  .ednc_apnl_sc {
+    padding: 40px 0;
+  }
+
+  .sb_hd h2 {
+    font-size: 25px;
+  }
+
+  .ednc_apnl_tb .nav-pills {
+    gap: 10px;
+    margin: 35px 0 30px;
+  }
+
+  .ednc_apnl_tb .nav-link,
+  .ednc_apnl_tb .nav-link.active {
+    width: auto;
+    padding: 10px 20px;
+  }
+
+  .ednc_apnl_tb .nav-link p {
+    font-size: 18px;
+  }
+
+  .hovr_pn_lt p {
+    font-size: 18px;
+    font-weight: 900;
+  }
+
+  .ednc_apnl_ryt p {
+    font-size: 18px;
+    margin: 10px 0;
+    font-weight: 900;
+  }
+
+  /* Eadc Features */
+
+  .edu_featrs_lst {
+    margin-bottom: 0 !important;
+    margin-top: 40px;
+    padding-left: 0;
+  }
+
+  .edu_featrs_bx,
+  .edu_procs_bx {
+    padding: 20px;
+    margin: 0 5px;
+    min-height: 300px !important;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  /*  */
+  .edu_featrs_lst .slick-dots {
+    position: unset;
+    margin-top: 30px;
+  }
+
+  .edu_featrs_lst .slick-dots li {
+    margin: 0 1px;
+  }
+
+  .edu_featrs_lst .slick-dots li button:before {
+    opacity: 1;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    color: rgb(154, 196, 156);
+    font-size: 16px;
+  }
+
+  .edu_featrs_lst .slick-dots li.slick-active button:before {
+    color: #048016;
+  }
+
+  .edu_featrs_lst .slick-dots li button {
+    width: 0;
+    font-size: 0;
+    height: 0;
+    background: transparent;
+  }
+
+  .edu_featrs_scc {
+    padding: 40px 0;
+  }
+
+  /*  */
+
+  /* Eadc Video */
+
+  .eductn_vid_mn {
+    padding: 30px 20px;
+  }
+
+  .eductn_vid_lft {
+    width: 55%;
+    margin: 0 auto 30px;
+  }
+
+  .eductn_vid_ryt {
+    width: 100%;
+  }
+
+  /* Eadc Learning Services */
+
+  .edu_lrngsrvcs_sc {
+    padding: 40px 0;
+  }
+
+  .edu_lrngsrvcs_lst {
+    margin-top: 40px;
+  }
+
+  /* Eadc Adv Tech */
+
+  .edu_advnctchnlgs_lst {
+    margin: 40px 0 0px 0 !important;
+    padding: 0;
+  }
+
+  .edu_advnctchnlgs_sc {
+    padding: 40px 0;
+  }
+
+  /* Eadc Porfolio */
+
+  /*  */
+
+  .comn_port_sldr .slick-prev {
+    left: 20rem;
+  }
+
+  .comn_port_sldr .slick-next {
+    right: 20rem;
+  }
+  /*  */
+}
+
+@media screen and (max-width: 768px) {
+  /* Eadc Video */
+
+  #w_vid_mdl .modal-dialog,
+  #w_vid_mdl .modal-content {
+    height: 400px;
+  }
+
+  /* Eadc Cta2 */
+
+  .dgtl_otsrc_sc {
+    padding: 40px 0;
+  }
+
+  /* Eadc Porfolio */
+
+  /*  */
+
+  .comn_port_sldr .slick-prev {
+    left: 18rem;
+  }
+
+  .comn_port_sldr .slick-next {
+    right: 18rem;
+  }
+  /*  */
+}
+
+@media screen and (max-width: 600px) {
+}
+
+@media screen and (max-width: 425px) {
+  /* Eadc Banner */
+
+  .fntch_bnsc_txt h1 {
+    font-size: 27px;
+  }
+
+  .fntch_banr .mn_hd p {
+    margin: 10px 0 0;
+    font-size: 16px;
+    margin-bottom: 30px;
+  }
+
+  .trsted_bx img {
+    max-width: 65px;
+  }
+
+  .trstd_lst {
+    gap: 10px;
+  }
+
+  /* Eadc Comment */
+
+  .iot_cntr {
+    gap: 20px 0;
+  }
+
+  .iot_cntr_lst {
+    width: 48%;
+  }
+
+  /* Eadc Services */
+
+  .edu_srvc_lft {
+    width: 100%;
+  }
+
+  .edu_srvc_ryt {
+    display: none;
+  }
+
+  /* Eadc Cta1 */
+
+  .eductn_cta1 .sb_hd h2 {
+    font-size: 22px;
+  }
+
+  .eductn_cta1 .sb_hd p {
+    font-size: 15px;
+    margin: 5px 0px 0px;
+    margin-bottom: 22px;
+  }
+
+  /* Eadc Panel */
+
+  .sb_hd h2 {
+    font-size: 20px;
+    line-height: normal;
+  }
+
+  .hovr_pn_inr {
+    gap: 30px;
+    flex-direction: column-reverse;
+  }
+
+  .hovr_pn_lt {
+    width: 100%;
+  }
+
+  .hovr_pn_ry {
+    width: 90%;
+  }
+
+  .ednc_apnl_lst {
+    margin-top: 50px;
+    flex-direction: column;
+  }
+
+  .ednc_apnl_lft {
+    width: 90%;
+  }
+
+  .ednc_apnl_ryt {
+    width: 100%;
+  }
+
+  .hovr_pn_lt p {
+    margin: 0 0 15px 0;
+  }
+
+  .edu_appnl_cntnt {
+    margin-left: 0;
+    padding-left: 0;
+  }
+
+  /* Eadc Features */
+
+  .sb h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+
+  /* Eadc Video */
+
+  .eductn_vid_lft {
+    width: 80%;
+  }
+
+  .eductn_vid_lft figure span {
+    width: 50px;
+    right: -20px;
+    height: 50px;
+  }
+
+  .sb_hd {
+    text-align: center;
+  }
+
+  #w_vid_mdl .modal-dialog,
+  #w_vid_mdl .modal-content {
+    height: 300px;
+  }
+
+  /* Eadc Cta2 */
+
+  .dgtl_otsrc_sc h2 {
+    line-height: 34px;
+    font-size: 22px !important;
+  }
+
+  .dgtl_otsrc_sc .dgtl_otsrc_btn {
+    width: 100px;
+    height: 100px;
+  }
+
+  .dgtl_otsrc_sc .sb:after {
+    display: none;
+  }
+
+  /* Eadc Learning services */
+
+  .edu_lrngsrvcs_lst {
+    gap: 10px 0;
+  }
+
+  .edu_lrngsrvcs_bx {
+    padding: 20px 10px;
+    width: 100%;
+  }
+
+  /* Eadc Adv Tech */
+
+  .edu_advnctchnlgs_lft {
+    display: none;
+  }
+
+  .edu_advnctchnlgs_ryt {
+    width: 100%;
+    padding: 0;
+  }
+
+  .edu_advnctchnlgs_bx {
+    padding: 20px 10px;
+    border-radius: 20px;
+    height: 415px !important;
+  }
+
+  .edu_advnctchnlgs_ryt .button_main button {
+    display: block !important;
+  }
+
+  /* Eadc Porfolio */
+
+  /*  */
+
+  .comn_port_sldr .slick-prev {
+    left: 8rem;
+  }
+
+  .comn_port_sldr .slick-next {
+    right: 8rem;
+  }
+  /*  */
+
+  .new_dsgn_pot .nh_bwt_lst {
+    flex-direction: column;
+    padding: 20px;
+    margin-bottom: 0;
+  }
+
+  .nh_bwt_rt {
+    width: 100% !important;
+  }
+
+  .prj_bndlg figure {
+    width: 70px;
+  }
+
+  .prj_bndlg {
+    justify-content: center;
+  }
+
+  .new_dsgn_pot .nh_bwt_rt h3 {
+    font-size: 16px;
+  }
+
+  .new_dsgn_pot .nh_bwt_pt {
+    margin: 20px 0 0;
+    gap: 15px 0;
+    justify-content: center;
+    align-items: flex-start;
+    padding-left: 0;
+    flex-direction: row-reverse;
+  }
+
+  .new_dsgn_pot .store_icons {
+    gap: 10px;
+    justify-content: center;
+  }
+
+  .new_dsgn_pot .nh_bwt_lt {
+    margin-top: 20px;
+    width: 45%;
+    padding-left: 0;
+  }
+
+  .new_dsgn_pot .nh_bwt_lt figure {
+    max-width: 229px;
+    width: 100%;
+  }
+
+  .new_dsgn_pot .nh_bwt_lt figure img {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  /* Eadc Porfolio */
+
+  /*  */
+
+  .comn_port_sldr .slick-prev {
+    left: 5rem;
+  }
+
+  .comn_port_sldr .slick-next {
+    right: 5rem;
+  }
+  /*  */
+}
